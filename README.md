@@ -1,2 +1,2 @@
 # toys-station
-learning to handle and merge complict
+learning to handle and merge comflict
